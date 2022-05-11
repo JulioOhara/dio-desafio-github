@@ -7,3 +7,5 @@ git status
 git add . (adicionar os arquivos)
 git commit -m "*comentario* 
 git push origin main (comando pra atualizar o repositorio com meus arquivos locais)
+
+Markdown Guide: https://www.markdownguide.org/basic-syntax/
