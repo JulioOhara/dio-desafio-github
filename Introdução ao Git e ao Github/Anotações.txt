@@ -1,0 +1,1 @@
+GitBash: Terminal utilizado para otimizar o uso do Git
