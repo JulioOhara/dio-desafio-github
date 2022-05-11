@@ -1,1 +1,9 @@
 GitBash: Terminal utilizado para otimizar o uso do Git
+
+Comandos:
+git clone (clona o repositorio do github na pasta local)
+cd *nome do repositorio* (Comando pra trabalhar dentro do repositorio)
+git status
+git add . (adicionar os arquivos)
+git commit -m "*comentario* 
+git push origin main (comando pra atualizar o repositorio com meus arquivos locais)
